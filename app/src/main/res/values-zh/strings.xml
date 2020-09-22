@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Setting Activity -->
+    <string name="setting_title">Settings</string>
+    <string name="setting_log_export">Log Upload</string>
+    <string name="setting_server_title">Server Ip(takes effect after app restart)</string>
+
+    <!-- LiveActivity -->
+    <string name="live_room_member_list">Members of the Live</string>
+    <string name="live_room_member_tv">Members</string>
+</resources>
